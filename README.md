@@ -22,4 +22,4 @@
 
 •	Edit User  <br/>  As a user I can edit my profile
 
-•	Add to favorite  <br/>  As a user I can add property to my favorite list
+•	Add to interested in list  <br/>  As a user I can add property to my interested in list
