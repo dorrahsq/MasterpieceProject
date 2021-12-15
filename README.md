@@ -21,3 +21,5 @@
 •	Rate  <br/> As a buyer user, I can rate the seller and service provider if the appointment done 
 
 •	Edit User  <br/>  As a user I can edit my profile
+
+•	Add to favorite  <br/>  As a user I can add property to my favorite list
